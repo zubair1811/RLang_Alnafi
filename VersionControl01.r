@@ -1,1 +1,6 @@
-This is version control task file
+#This is version control task file
+print("Hello from github")
+name="zubair islam"
+version="Rstudio-in writting"
+print(name)
+print("These lines have been written in Rstudio")
